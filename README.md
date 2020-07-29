@@ -1,10 +1,6 @@
-# flotter_vscode_ventas
+# U.A.G.R.M.-Topico_avanzado_de_programacion-SA
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+U.A.G.R.M. | Facultad: F.I.C.C.T. | Materia: Topicos avanzado de programacion | Grupo: SA |Docente: Miguel Jesus Peinado | Repositorio: Trabajos de Clase y Proyecto Final | Lenguaje: Dart | IDE:Flutter (Visual Studio Code)
 
 A few resources to get you started if this is your first Flutter project:
 
