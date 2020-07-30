@@ -20,7 +20,7 @@ Imagen - IDE:
 2. Bots Messenger (Documento de Investigacion sobre Bots Messenger)
 
 # PROYECTO FINAL: (En Desarrollo)
-Bots de Asistencia Tecnica (Messenger)
+Bot de Asistencia Tecnica (Messenger)
 
 Imagen - Template
 ![repository-open-graph-template UAGRM](https://user-images.githubusercontent.com/36086876/88793812-6e45de80-d16b-11ea-9b49-764ae91194d3.png)
