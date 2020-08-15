@@ -1,9 +1,8 @@
 <?php 
 include_once "../somosioticos/somosioticos_dialogflow.php";
 credenciales('empresasegurosbot','123456789');
-debug();
 
-$mysqli=mysqli_connect("us-cdbr-east-02.cleardb.com","b5a3a74f1e967e","2e3a7c4b","heroku_d1f63ac6b823fab"); 
+$mysqli = mysqli_connect("us-cdbr-east-02.cleardb.com","b5a3a74f1e967e","2e3a7c4b","heroku_d1f63ac6b823fab"); 
 
 if (!$mysqli){
     echo "Error: No se pudo conectar a MySQL." . PHP_EOL;
