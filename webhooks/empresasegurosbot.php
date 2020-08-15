@@ -1,7 +1,24 @@
 <?php 
 include_once "../somosioticos/somosioticos_dialogflow.php";
 credenciales('empresasegurosbot','123456789');
+debug();
 
+$mysqli=mysqli_connect("us-cdbr-east-02.cleardb.com","b5a3a74f1e967e","2e3a7c4b","heroku_d1f63ac6b823fab"); 
+
+if (!$mysqli){
+    echo "Error: No se pudo conectar a MySQL." . PHP_EQL;
+    die();
+}
+
+
+if (intent_recibido("consultar_precio")){
+    $resultado = $mysqli->query("SELECT * FROM `precios` WHERE 1");
+    $precios = mysqli_fetch_assoc($resultado);
+    $p_robo = $precios['robo'];
+    $p_accidente = $precios['accidente'];
+    $p_culpapropia = $precios['culpapropia'];
+    enviar_texto(las de carne cuestan $p_robo las arabes cuestan $p_accidente y las de choclo cuestan $p_culpapropia);
+}
 
 if (intent_recibido("calculadora")){
     $valor1 = obtener_variables()['numero1'];
