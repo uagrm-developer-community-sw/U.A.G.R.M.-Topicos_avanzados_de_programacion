@@ -1,0 +1,13 @@
+mysql://
+b5a3a74f1e967e
+:
+2e3a7c4b
+@
+us-cdbr-east-02.cleardb.com
+/
+heroku_d1f63ac6b823fab
+
+?reconnect=true
+
+
+CommunityDeveloperSw.org

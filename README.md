@@ -18,6 +18,7 @@ Imagen - IDE:
 # TRABAJOS DE CLASE:
 1. App Flutter (Activar Camara)
 2. Bots Messenger (Documento de Investigacion sobre Bots Messenger)
+3. Bot Hola Mundo(Messenger, Dialogoflow, Webhook(php))
 
 # PROYECTO FINAL: (En Desarrollo)
 Bot de Asistencia Tecnica (Messenger)

@@ -1,0 +1,46 @@
+
+================================
+base de datos
+
+https://databases-auth.000webhost.com/index.php
+
+id14630679_
+
+nombre
+bdsegurosautomotorbot
+
+usuario
+root
+=================================
+webhook:
+contraseña
+bdsegurosautomotorbot-123
+
+verificar php:
+https://segurosautomotorbot.000webhostapp.com/webhooks/empanadasbot.php
+
+usuario:
+segurosautomotorbot
+
+Contraseña: 123456789
+
+
+
+id14630679_bdsegurosautomotorbot
+
+**********************************************
+Nombre de la base de: empabot
+Nombre de usuario de la: empanadasbot
+contraseña:
+o6{XkS%1i\/_c=L$
+
+
+id14630679_empanadasbot
+
+
+
+SELECT * FROM `precios` WHERE 1
+
+
+token generado facebook
+EAAEJhSkh57UBAB70MMZCpzQbuZArNxCFo9Ui5UgK1AC6kZBWSGbzNi6wAqvlWwzb4zxNP67oHACZAehebJt6yXFRYP60HySJcnMbC8QEBWEz3BzYBLzggCFTuPy9RWTjBixdVdXfKoFInZAAECdIVEOfk52OjZC8cjxuzntvZCSDwZDZD
