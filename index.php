@@ -35,7 +35,7 @@
             <hr>
           </div>
           <div class="col-md-3 float-left add-new-button">
-            <a href="insert.php" class="btn btn-primary btn-block" data-toggle="modal" data-target="#addModal">
+            <a href="#" class="btn btn-primary btn-block" data-toggle="modal" data-target="#addModal">
               <i class="fas fa-plus"></i> Add New Record
             </a>
           </div>

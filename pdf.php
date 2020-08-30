@@ -16,7 +16,7 @@ function file_get_contents_curl($url) {
     return $data;
 }
 
-$html=file_get_contents("http://localhost/phpcrud-master/printPDF.php");
+$html=file_get_contents("https://seguros-automotor-bot.herokuapp.com/printPDF.php");
 
 $pdf = new DOMPDF(); 
 

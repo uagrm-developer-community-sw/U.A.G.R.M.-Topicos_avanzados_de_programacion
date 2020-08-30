@@ -7,7 +7,7 @@
 
 ?>	
  	
-  <img src="images/egm.jpg" width="100" height="90">
+  <img src="images/EGM.jpg" width="100" height="90">
 
   <head>
   <style>
