@@ -92,7 +92,7 @@
             }else{
               echo "<script> alert('No Record Found');</script>";
             }
-          ?>
+            ?>
             </tbody>
           </table>
         </div>
