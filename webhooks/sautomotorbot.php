@@ -18,6 +18,8 @@
             echo $row['designation'];
         
         }
+    }else{
+        echo "<script> alert('No Record Found');</script>";
     }
 ?>
 
