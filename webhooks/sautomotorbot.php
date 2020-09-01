@@ -1,5 +1,7 @@
 <?php
   include('../connection.php');
+  include('libreria_developer/sautomotorbot.php');
+  credenciales ('segurosautomotorbot','123456789');
 
 
 
