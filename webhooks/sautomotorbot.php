@@ -16,11 +16,11 @@
                 $_lastname = $row['lastname'];
                 $_address = $row['address'];
                 $_skills = $row['skills'];
-                $_designation = $row['designation'];
-                enviar_texto("Nombre: $_firstname Apellido: $_lastname Direccion: $_address Especialidad: $_skills Fecha Ingeso: $_designation");
+                //$_designation = $row['designation'];
+                enviar_texto("Nombre: $_firstname Apellido: $_lastname Direccion: $_address Especialidad: $_skills");
         }
         }else{
-            echo "<script> alert('No Record Found');</script>";
+            echo "<script> alert('No Record Found webhooks');</script>";
         }
             
     }
