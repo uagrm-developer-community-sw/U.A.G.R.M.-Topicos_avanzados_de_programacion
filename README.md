@@ -1,6 +1,6 @@
-# U.A.G.R.M.-Topico_avanzado_de_programacion-SA
+# U.A.G.R.M.-Topico_avanzado_de_programacion
 
-U.A.G.R.M. | Facultad: F.I.C.C.T. | Materia: Topicos avanzado de programacion | Grupo: SA | Docente: Miguel Jesus Peinado | Repositorio: Trabajos de Clase y Proyecto Final | Lenguaje: Dart | IDE: Flutter (Visual Studio Code)
+Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Topicos Avanzados De Programacion (Algoritmos Genericos) | Grupo: SA | Docente: Miguel Jesus Peinado | Repositorio: Avance de la materia | Lenguaje: Dart | IDE: Visual Studio Code
 
 Imagen - IDE:
 ![flutter](https://user-images.githubusercontent.com/36086876/88793720-49ea0200-d16b-11ea-8351-94305f8333ad.jpeg)
