@@ -1,6 +1,13 @@
 # U.A.G.R.M.-Topico_avanzado_de_programacion
 
-Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Topicos Avanzados De Programacion (Algoritmos Genericos) | Grupo: SA | Docente: Miguel Jesus Peinado | Repositorio: Avance de la materia | Lenguaje: Dart | IDE: Visual Studio Code
+Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Topicos Avanzados De Programacion (Algoritmos Genericos) | Grupo: SA | Docente: Miguel Jesus Peinado | Repositorio: Avance de la materia | Entorno: Movil y Web | IDE: Visual Studio Code
+
+<p align="center"><img src="https://user-images.githubusercontent.com/36086876/146686931-7454e35d-a44b-422f-84c6-c3645d235ad3.png" width="162"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/36086876/148548585-d4259cff-b909-48de-8d48-c41a7ba2cab3.png" width="292"></p>
+
+## NUMERO DE VISITANTES.
+<img align="left" src = "https://profile-counter.glitch.me/U.A.G.R.M.-Topicos_avanzados_de_programacion
+/count.svg" alt ="Loading"> <br>
 
 Imagen - IDE:
 ![flutter](https://user-images.githubusercontent.com/36086876/88793720-49ea0200-d16b-11ea-8351-94305f8333ad.jpeg)
@@ -16,9 +23,9 @@ Imagen - IDE:
 ![Ejemplo de vista web lista de deseos](https://user-images.githubusercontent.com/36086876/88806715-c76b3d80-d17e-11ea-88c4-d07b8c95f343.gif)
 
 # TRABAJOS DE CLASE:
-1. App Flutter (Activar Camara)
-2. Bots Messenger (Documento de Investigacion sobre Bots Messenger)
-3. Bot Hola Mundo(Messenger, Dialogoflow, Webhook(php))
+1. Crear una App de chat con la API ChatGPT <br>
+2. Crear el documento para el proyecto final <br>
+3. <br>
 
 # PROYECTO FINAL: (En Desarrollo)
 Bot de Asistencia Tecnica (Messenger)
