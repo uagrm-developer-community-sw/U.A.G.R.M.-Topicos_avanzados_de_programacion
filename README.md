@@ -12,11 +12,12 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 ## INDICE:
 
 > TAREAS:
->
-> > [1.- Crear una App de chat con la API ChatGPT]() <br> >> [2.- Crear el documento para el proyecto final](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=KCnm1d) <br> 3. <br>
+
+>> [1.- Crear una App de chat con la API ChatGPT]()<br>
+>> [2.- Crear el documento para el proyecto final](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=KCnm1d)<br> 
+3. <br>
 
 ## YOUTUBE
-
 > [+ Youtube - Clases 1 2023](Messenger)
 
 Imagen - Template
