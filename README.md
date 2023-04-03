@@ -13,8 +13,9 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 
 > TAREAS:
 
->> [1.- Crear una App de chat con la API ChatGPT]()<br>
+>> [1.- Crear una App de chat con la API ChatGPT](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_ChatGpt-ELC103.git)<br>
 >> [2.- Crear el documento para el proyecto final](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=KCnm1d)<br> 
+>> [3. Crear un Login con reconocimiento facial](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_login_reconocimiento_facial-ELC103.git)<br>
 3. <br>
 
 ## YOUTUBE
