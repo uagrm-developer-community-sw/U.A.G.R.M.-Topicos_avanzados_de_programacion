@@ -17,7 +17,6 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 >> [2.- Crear el documento para el proyecto final](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=KCnm1d)<br> 
 >> [3.- Crear un Login con reconocimiento facial](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_login_reconocimiento_facial-ELC103.git)<br>
 >> [4.- Utilizando en API de google map hacer una pagina que muestre una geocerca con marcadores](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Api_Maps-Google_Cloud-ELC103.git)<br>
-3. <br>
 
 ## YOUTUBE
 > [+ Youtube - Clases 1 2023](Messenger)
