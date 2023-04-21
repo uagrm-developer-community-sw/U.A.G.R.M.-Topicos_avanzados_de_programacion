@@ -9,14 +9,19 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 
 <img align="left" src = "https://profile-counter.glitch.me/U.A.G.R.M.-Topicos_avanzados_de_programacion/count.svg" alt ="Loading"> <br>
 
-## INDICE:
+## TAREAS:
 
-> TAREAS:
+> [1.- OpenIA chatgpt | Crear chat basico](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_ChatGpt-ELC103)<br>
+> [2.- Proyecto | Definición de alcance, introducción, descripción del problema y alcance funcional](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa)<br> 
+> [3.- Login Biometrico](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_login_reconocimiento_facial-ELC103.git)<br>
+> [4.- Diseño UI App Movil](https://www.figma.com/file/cSdrOsmGZgwN5HIG734n6B/Topic---Movil?node-id=0%3A1&t=lP9lxWgD9dnoYzG3-1)<br>
+> [5.- App web para manejo de mapas](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Api_Maps-Google_Cloud-ELC103.git)<br>
+> [6.- Diseño UI Web](https://www.figma.com/file/mji2KHhAVzNMyfY28MuJ8H/Topic---Web?node-id=0%3A1&t=LxaTjeYdU6wIui2k-1)<br>
+> [7.- Login Biometrico con base no relacional en nube](https://github.com/yordi54/login-angular)<br>
+> [8.- Analisis de Requisitos Plataforma | 1. Diagrama de casos de uso - 2. Especificacion de requisitos funcionales](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=x2tpTv)<br>
 
->> [1.- Crear una App de chat con la API ChatGPT](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_ChatGpt-ELC103.git)<br>
->> [2.- Crear el documento para el proyecto final](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=KCnm1d)<br> 
->> [3.- Crear un Login con reconocimiento facial](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Proyecto_login_reconocimiento_facial-ELC103.git)<br>
->> [4.- Utilizando en API de google map hacer una pagina que muestre una geocerca con marcadores](https://github.com/jhasmany-fernandez/F.I.C.C.T.-Api_Maps-Google_Cloud-ELC103.git)<br>
+## DOCUMENTACION
+> [Diagramas | Casos Uso]()<BR>
 
 ## YOUTUBE
 > [+ Youtube - Clases 1 2023](Messenger)
