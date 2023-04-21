@@ -21,7 +21,7 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 > [8.- Analisis de Requisitos Plataforma | 1. Diagrama de casos de uso - 2. Especificacion de requisitos funcionales](https://1drv.ms/w/s!ArQLL-6st4rhyiaDEc9uYjqW1OYa?e=x2tpTv)<br>
 
 ## DOCUMENTACION
-> [Diagramas | Casos Uso]()<BR>
+> [Diagramas | Casos Uso](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Topicos_avanzados_de_programacion/tree/master/Diagramas)<BR>
 
 ## YOUTUBE
 > [+ Youtube - Clases 1 2023](Messenger)
