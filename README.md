@@ -22,9 +22,10 @@ Universidad: U.A.G.R.M. | Facultad: F.I.C.C.T. | Semestre: 1 2023 | Materia: Top
 
 ## DOCUMENTACION
 > [Diagramas | Casos Uso](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Topicos_avanzados_de_programacion/tree/master/Diagramas)<BR>
+> [Documento Final](https://1drv.ms/w/s!ArQLL-6st4rhgqE0nH8VrvLGXDS0og?e=roVUmS)
 
 ## YOUTUBE
-> [+ Youtube - Clases 1 2023](Messenger)
+> [+ Youtube - Clases 1 2023](https://youtube.com/playlist?list=PLZh2aEFREMpqUhiWZFh5QY5bmuvJSrYgm&si=4xn4y2CJaMtG3qmt)
 
 Imagen - Template
 ![repository-open-graph-template UAGRM](https://user-images.githubusercontent.com/36086876/88793812-6e45de80-d16b-11ea-9b49-764ae91194d3.png)
